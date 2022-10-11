@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-11T22:20:05 IST" name="Default suite" finished-at="2022-10-11T22:21:11 IST" duration-ms="65904">
+    <groups>
+    </groups>
+    <test started-at="2022-10-11T22:20:05 IST" name="Default test" finished-at="2022-10-11T22:21:11 IST" duration-ms="65904">
+      <class name="com.demo.FlipkartTestEdge">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.demo.FlipkartTestEdge@19932c16]" started-at="2022-10-11T22:20:05 IST" name="beforeClass" finished-at="2022-10-11T22:20:30 IST" duration-ms="25127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="closeLogin()[pri:1, instance:com.demo.FlipkartTestEdge@19932c16]" started-at="2022-10-11T22:20:30 IST" name="closeLogin" finished-at="2022-10-11T22:20:32 IST" duration-ms="2679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeLogin -->
+        <test-method signature="scroll()[pri:2, instance:com.demo.FlipkartTestEdge@19932c16]" started-at="2022-10-11T22:20:32 IST" name="scroll" finished-at="2022-10-11T22:20:40 IST" duration-ms="7053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll -->
+        <test-method signature="searchProduct()[pri:3, instance:com.demo.FlipkartTestEdge@19932c16]" started-at="2022-10-11T22:20:40 IST" name="searchProduct" finished-at="2022-10-11T22:20:45 IST" duration-ms="5870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method signature="loadImage()[pri:4, instance:com.demo.FlipkartTestEdge@19932c16]" started-at="2022-10-11T22:20:45 IST" name="loadImage" finished-at="2022-10-11T22:21:00 IST" duration-ms="14242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadImage -->
+        <test-method signature="scrollFrequency()[pri:5, instance:com.demo.FlipkartTestEdge@19932c16]" started-at="2022-10-11T22:21:00 IST" name="scrollFrequency" finished-at="2022-10-11T22:21:02 IST" duration-ms="2558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollFrequency -->
+        <test-method signature="downloadImages()[pri:6, instance:com.demo.FlipkartTestEdge@19932c16]" started-at="2022-10-11T22:21:02 IST" name="downloadImages" finished-at="2022-10-11T22:21:03 IST" duration-ms="349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downloadImages -->
+        <test-method signature="screenResolution()[pri:7, instance:com.demo.FlipkartTestEdge@19932c16]" started-at="2022-10-11T22:21:03 IST" name="screenResolution" finished-at="2022-10-11T22:21:11 IST" duration-ms="7951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenResolution -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.demo.FlipkartTestEdge@19932c16]" started-at="2022-10-11T22:21:11 IST" name="afterClass" finished-at="2022-10-11T22:21:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.demo.FlipkartTestEdge -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
